@@ -1,3 +1,4 @@
+<?php include ('server.php')?>
 <!-- Footer -->
 <section class="page-footer font-small mdb-color lighten-3 pt-4">
 
@@ -10,10 +11,10 @@
             <!-- Grid column -->
             <div class="col-md-4 col-lg-3 mr-auto my-md-4 my-0 mt-4 mb-1">
                 <h5 class="font-weight-bold text-uppercase mb-4"><span class="ls">SUBSCRIBE</span></h5>
-                <form action="connect.php" method="POST">
+                <form action="footer.php" method="POST">
                 <div class="form-group">
                     <label for="validationTooltip01">Your Full Name</label>
-                    <input type="text" name="fullName" class="form-control" id="validationTooltip01" placeholder="Enter Your Full Name" required>
+                    <input type="text" class="form-control" name="fullName" id="validationTooltip01" placeholder="Enter Your Full Name" required>
                 </div>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Your Email Address</label>
@@ -22,7 +23,7 @@
                 </div>
                 <div class="form-group form-check">
                 </div>
-                    <a href="index.php"><button type="submit" class="btn btn-primary" name="Submit" value="Submit">Submit</button></a>
+                    <a href="index.php"><button type="submit" class="btn btn-primary" name="submit" value="Submit">Submit</button></a>
                 </form>
             </div>
             <!-- Grid column -->

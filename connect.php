@@ -15,7 +15,7 @@ if (!empty($fullName)){
         }
         else{
             $sql = "INSERT INTO subscriptionn (fullName, email)
-values ('$fullName','$email')";
+values ('?','?')";
             if ($conn->query($sql)){
                 echo "New record is inserted successfully";
             }

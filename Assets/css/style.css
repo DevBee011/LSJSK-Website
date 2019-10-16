@@ -250,7 +250,7 @@ display: block;
 {
     width:30px;
     transition:0.5s;
-}s
+}
 .social-icons a:hover img
 {
     transform: translateY(-10px);

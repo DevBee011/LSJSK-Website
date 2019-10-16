@@ -6,7 +6,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <meta name="descpription" content="This is a website that empowers Kenyan youth, especially graduates, with lifeskills to help them succceed in securing their dream jobs">
+    <meta name="Keywords" content="blogs, college, cover letter, cv writing, graduates, employment, Interviews, human resource, jobs,job seekers, lifeskills,networking, resume, unemployment, university"/>
 </head>
 <body>
 <section id="nav-bar">
